@@ -230,7 +230,7 @@ p.note { display: none; }
 <a href="20251002_033.JPG" target="_blank"><img src="20251002_033.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251002_034.JPG" target="_blank"><img src="20251002_034.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">Lotus'sで見かけた僧侶達、子供の頃から仏門に入ってます</span></h2>
+<h2><span class="yellow">Lotus'sで見かけた僧侶達、子供の頃から仏門に入ってます<br>義務教育過程はお寺が全て責任を持って実施するらしい</span></h2>
 <a href="20251002_035.JPG" target="_blank"><img src="20251002_035.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">会計は一番偉いお坊さん</span></h2>
